@@ -1,5 +1,8 @@
 # This is a VueJs practice. A Pokemos game was built for practicing the interaction between components
 
+## Screenshots:
+![game start](./scr2.png)
+![game won](./scr1.png)
 ## Project setup
 - Make sure you have yans installed running `yarn -v`. If not, run:
 ```
