@@ -1,24 +1,32 @@
-# 04-pokemon-game
+# This is a VueJs practice. A Pokemos game was built for practicing the interaction between components
 
 ## Project setup
+- Make sure you have yans installed running `yarn -v`. If not, run:
 ```
 yarn install
 ```
+- Clone the repo using the command:
+```
+git clone git@github.com:MiguelArgentina/pokemon-game-vue-practice.git
+```
 
-### Compiles and hot-reloads for development
+
+- For compiles and hot-reloads for development
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+- For compiles and minifies for production
 ```
 yarn build
 ```
 
-### Run your unit tests
+- For running your unit tests
 ```
 yarn test:unit
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Acknowledgments:
+- Fernando Herrera (Udemy):
+  - [Twiter: @Fernando_Her85](@Fernando_Her85)
+  - [Personal webpage (recommended!!)](https://fernando-herrera.com/#/)
